@@ -35,8 +35,7 @@ Exemplo:
 Entrada:
 n = 6
 
-Saída:
-******
+Saída: ******
 
 
 ## Questão 02
